@@ -1,7 +1,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-[![RestAPI][![rest api](https://user-images.githubusercontent.com/56833060/113520193-5a1f7000-9589-11eb-9781-ca573adc27b7.gif)]]
+[![rest api](https://user-images.githubusercontent.com/56833060/113520193-5a1f7000-9589-11eb-9781-ca573adc27b7.gif)]
 
 Here's a blank template to get started:
 Basic RESTapi that serves images in a JSON format (for example: http://127.0.0.1:8000/%5Eapi/item/). A GET request can be made to fetch a promise, before each of the images are rendered into your project.
