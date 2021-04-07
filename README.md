@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple steps.
    ```
 3. Activate environment
    ```sh
-   source djangoenv/bin/activate (windows users djangoenv venv\Scripts\activate.bat)
+   source djangoenv/bin/activate (windows users djangoenv\Scripts\activate.bat)
    ```
 4. Install pip dependencies
    ```sh
